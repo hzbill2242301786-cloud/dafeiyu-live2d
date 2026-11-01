@@ -4,6 +4,8 @@
 
 > 运行环境：**Cubism 5 运行时**（moc3 v5）。可直接用 Cubism Editor 打开 `.cmo3` 继续编辑，或用任意 Cubism SDK / 查看器加载 `face_change.model3.json`。
 
+![预览](preview.png)
+
 ---
 
 ## 模型信息
