@@ -1,10 +1,14 @@
 # 大肥鱼 Live2D 模型 · dafeiyu-live2d
 
+！！注意！！
+目前仅为第一版，个人做的第一个live2d模型，有很多缺陷。缺少了张嘴动作，因此大肥鱼张嘴时会很丑，在使用模型时，请关闭张嘴动作或者自己手搓一个。如果觉得符号表情很碍事，可以自行设置符号快捷键
+
 一个可直接被 Live2D Cubism 运行时加载的成品模型（moc3 + 全套配置），带 12 组动作、物理演算与口型同步分组。
 
 > 运行环境：**Cubism 5 运行时**（moc3 v5）。可直接用 Cubism Editor 打开 `.cmo3` 继续编辑，或用任意 Cubism SDK / 查看器加载 `face_change.model3.json`。
 
-![预览](preview.png)
+![预览](<img width="2560" height="1470" alt="Screenshot 2026-11-01 142334" src="https://github.com/user-attachments/assets/b4dacf80-d881-43f1-82ad-de1d10b7fbab" />
+)
 
 ---
 
