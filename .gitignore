@@ -1,0 +1,19 @@
+# Windows / macOS litter
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# editor & tool litter
+*.bak
+*.backup
+*.tmp
+*.log
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Cubism Editor autosaves / recovery
+*_backup*.cmo3
+~$*

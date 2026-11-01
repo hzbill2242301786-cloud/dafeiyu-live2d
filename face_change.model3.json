@@ -1,0 +1,95 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "face_change.moc3",
+		"Textures": [
+			"face_change.4096/texture_00.png"
+		],
+		"Physics": "face_change.physics3.json",
+		"DisplayInfo": "face_change.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "face_change.idle.motion3.json"
+				},
+				{
+					"File": "face_change.idleCute.motion3.json"
+				}
+			],
+			"Blink": [
+				{
+					"File": "face_change.blink.motion3.json"
+				}
+			],
+			"Nod": [
+				{
+					"File": "face_change.nod.motion3.json"
+				}
+			],
+			"Shake": [
+				{
+					"File": "face_change.shake.motion3.json"
+				}
+			],
+			"Crouch": [
+				{
+					"File": "face_change.crouch.motion3.json"
+				}
+			],
+			"WeightShift": [
+				{
+					"File": "face_change.weightShift.motion3.json"
+				}
+			],
+			"Shy": [
+				{
+					"File": "face_change.shy.motion3.json"
+				}
+			],
+			"HeadTilt": [
+				{
+					"File": "face_change.headTilt.motion3.json"
+				}
+			],
+			"Cheer": [
+				{
+					"File": "face_change.cheer.motion3.json"
+				}
+			],
+			"LegKick": [
+				{
+					"File": "face_change.legKick.motion3.json"
+				}
+			],
+			"Sway": [
+				{
+					"File": "face_change.sway.motion3.json"
+				}
+			],
+			"Talk": [
+				{
+					"File": "face_change.talk.motion3.json",
+					"FadeInTime": 0.2,
+					"FadeOutTime": 0.2
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	]
+}
